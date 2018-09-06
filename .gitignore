@@ -1,9 +1,9 @@
 **.idea/**
-.gitignore
 /.idea/*
 /lib/*
 /bin/*
 /build/*
-/gradle/*
+/gradle
+/.gradle/*
 gradlew
 gradlew.bat
